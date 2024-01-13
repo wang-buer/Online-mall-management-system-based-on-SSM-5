@@ -1,10 +1,4 @@
-# 基于SSM的在线商城管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**商城5** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的在线商城管理系统5
 
 ## 1、项目介绍
 
@@ -35,51 +29,43 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305929.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202206191305929.jpg)
 
 ### 4.2前端 模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305046.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202206191305046.jpg)
 
-![商品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305396.jpg)
+![商品详情](https://www.codeshop.fun/Typora-Images/202206191305396.jpg)
 
-![确认下单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305889.jpg)
+![确认下单](https://www.codeshop.fun/Typora-Images/202206191305889.jpg)
 
 ### 4.3用户 模块
 
-![用户-查看自己发布的商品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305107.jpg)
+![用户-查看自己发布的商品](https://www.codeshop.fun/Typora-Images/202206191305107.jpg)
 
-![用户-收货地址管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305331.jpg)
+![用户-收货地址管理](https://www.codeshop.fun/Typora-Images/202206191305331.jpg)
 
-![用户-我的订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305856.jpg)
+![用户-我的订单](https://www.codeshop.fun/Typora-Images/202206191305856.jpg)
 
-![用户-我的订单2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305566.jpg)
+![用户-我的订单2](https://www.codeshop.fun/Typora-Images/202206191305566.jpg)
 
-![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305714.jpg)
+![购物车](https://www.codeshop.fun/Typora-Images/202206191305714.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305700.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202206191305700.jpg)
 
-![管理员-商品分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305710.jpg)
+![管理员-商品分类管理](https://www.codeshop.fun/Typora-Images/202206191305710.jpg)
 
-![管理员-商品信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191305662.jpg)
+![管理员-商品信息管理](https://www.codeshop.fun/Typora-Images/202206191305662.jpg)
 
-![管理员-生产地管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191306175.jpg)
+![管理员-生产地管理](https://www.codeshop.fun/Typora-Images/202206191306175.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191306504.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202206191306504.jpg)
 
-![管理员-招商资讯管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191306783.jpg)
+![管理员-招商资讯管理](https://www.codeshop.fun/Typora-Images/202206191306783.jpg)
 
 ### 4.5设计文档
 
-![设计文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206191307376.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**商城5**
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![设计文档目录](https://www.codeshop.fun/Typora-Images/202206191307376.jpg)
 
